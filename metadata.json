@@ -1,0 +1,6 @@
+{
+  "name": "OTT Updates",
+  "description": "A premium cinematic OTT releases tracker and movie discovery suite powered by Gemini API, offering real-time streaming updates, watchlist integration, and intelligent movie lookups.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
